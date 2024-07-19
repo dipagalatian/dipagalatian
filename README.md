@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a talent in coding bootcamp Dumbways Indonesia Technology
+🔭 I’m currently a Junior Fullstack Developer at Sari Baut Net Company
 
 
 ## 🌐 Socials:
